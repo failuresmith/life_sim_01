@@ -1,0 +1,15 @@
+[project]
+name = "life-sim"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "pytest>=9.0.3",
+    "pyyaml>=6.0.3",
+    "rich>=15.0.0",
+    "typer>=0.24.1",
+]
