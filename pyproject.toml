@@ -1,5 +1,5 @@
 [project]
-name = "life-sim"
+name = "life_sim"
 version = "0.1.0"
 description = "Basic life-like simulation with baselines, Q-learning, memory, and simple evaluation."
 readme = "README.md"
@@ -26,5 +26,5 @@ packages = [
   "life_sim.policies",
   "life_sim.learning",
   "life_sim.memory",
-  "life_sim.evaluation",
+  "life_sim.evolution",
 ]
